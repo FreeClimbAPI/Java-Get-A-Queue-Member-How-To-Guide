@@ -2,6 +2,7 @@
 
 This project serves as a guide to help you build an application with Persephony. Specifically, the project will:
 
+- Put incoming calls into a queue
 - Get a memeber of a queue
 
 ## Setting up your new app within your Persephony account
@@ -16,6 +17,7 @@ To get started using a persephony account, follow the instructions [here](https:
    | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
    | ACCOUNT_ID              | Account ID which can be found under [API Keys](https://www.persephony.com/dashboard/portal/account/authentication) in Dashboard                                                         |
    | AUTH_TOKEN              | Authentication Token which can be found under [API Keys](https://www.persephony.com/dashboard/portal/account/authentication) in Dashboard                                               |
+   | HOST | URL where your app is being hosted |
 
 ## Building and Runnning the Tutorial
 
