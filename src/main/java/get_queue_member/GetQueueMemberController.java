@@ -1,7 +1,7 @@
 /* 
  * 1. RUN PROJECT WITH COMMAND: 
  *    `gradle build && java -Dserver.port=0080 -jar build/libs/gs-spring-boot-0.1.0.jar`
- * 2. CALL PERSEPHONY NUMBER ASSOCIATED WITH THIS FreeClimb App (CONFIGURED IN PERSEPHONY DASHBOARD)
+ * 2. CALL FreeClimb NUMBER ASSOCIATED WITH THIS FreeClimb App (CONFIGURED IN FreeClimb DASHBOARD)
  * 3. RUN CURL COMMAND TO GET LIST OF QUEUES:
  *    `curl {baseUrl}/queues`
  * 4. EXPECT JSON TO BE RETURNED:
