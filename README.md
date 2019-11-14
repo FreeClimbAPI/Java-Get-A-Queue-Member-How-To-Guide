@@ -1,6 +1,6 @@
 # Java - Get a Queue Member Tutorial
 
-This project serves as a guide to help you build an application with FreeClimb. Specifically, the project will:
+This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com](https://docs.freeclimb.com/docs/get-queue-member#section-java). Specifically, the project will:
 
 - Put incoming calls into a queue
 - Get a memeber of a queue
