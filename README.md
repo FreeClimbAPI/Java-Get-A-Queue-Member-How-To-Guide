@@ -1,6 +1,6 @@
-# Java - Get a Queue Member Tutorial
+# Java - Get a Queue Member How-To Guide
 
-This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com](https://docs.freeclimb.com/docs/get-queue-member#section-java). Specifically, the project will:
+This project serves as a guide to help you build an application with FreeClimb. View this how-to guide on [FreeClimb.com](https://docs.freeclimb.com/docs/get-queue-member#section-java). Specifically, the project will:
 
 - Put incoming calls into a queue
 - Get a member of a queue
@@ -9,7 +9,7 @@ This project serves as a guide to help you build an application with FreeClimb. 
 
 To get started using a FreeClimb account, follow the instructions [here](https://docs.freeclimb.com/docs/getting-started-with-freeclimb).
 
-## Setting up the Tutorial
+## Setting up the how-to guide
 
 1. Configure environment variables.
 
@@ -19,7 +19,7 @@ To get started using a FreeClimb account, follow the instructions [here](https:/
    | API_KEY   | API key which can be found under [API credentials](https://www.freeclimb.com/dashboard/portal/account/authentication) in Dashboard |
    | HOST         | URL where your app is being hosted                                                                                                       |
 
-## Building and Runnning the Tutorial
+## Building and runnning the how-to guide
 
 1. Build and run the application using command:
 
